@@ -19,11 +19,12 @@
 
 ### Demonstração do Projeto
 
-<div align="center">
-  <a href="https://github.com/user-attachments/assets/9dbf34d9-6686-4f4f-8b02-359682f4b5b1" target="_blank">
-    <img src="https://github.com/user-attachments/assets/9dbf34d9-6686-4f4f-8b02-359682f4b5b1" width="80%" />
-  </a>
-</div>
+
+
+
+https://github.com/user-attachments/assets/951b4380-dc47-4528-959d-8fb3f295f6bc
+
+
 
 ---
 
