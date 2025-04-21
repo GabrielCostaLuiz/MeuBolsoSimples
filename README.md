@@ -13,7 +13,6 @@
 ### Tecnologias Utilizadas:
 
 - **C#**
-- **.NET**
 - **Console Application**
 
 ---
