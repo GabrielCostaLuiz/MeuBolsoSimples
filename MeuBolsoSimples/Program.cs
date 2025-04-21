@@ -1,28 +1,6 @@
 ﻿using System.Drawing;
 using static MeuBolsoSimples.Transactions;
 
-//foreach (var tipo in Enum.GetNames(typeof(TypeEnum)))
-//{
-//    Console.WriteLine($"- {tipo}");
-//}
-
-//Console.Write("Tipo (Receita ou Despesa): ");
-//string typeInput = Console.ReadLine();
-
-//// Verifica se o input é número => bloqueia
-//if (int.TryParse(typeInput, out _))
-//{
-//    Console.WriteLine("Tipo inválido. Digite o nome da transação (ex: Receita, Despesa).");
-//    return;
-//}
-
-//// Tenta converter a string para o enum
-//if (!Enum.TryParse<TypeEnum>(typeInput, true, out var type))
-//{
-//    Console.WriteLine("Tipo inválido.");
-//    return;
-//}
-
 namespace MeuBolsoSimples;
 class Program
 {
